@@ -62,7 +62,7 @@ streamlit run app.py
 ## Contact
 For questions or collaboration, reach out to:
 - 📧 Email: [busapratham@gmail.com]
-- 🌐 LinkedIn: [linkedin.com/in/prathambusa15]
+- 🌐 LinkedIn: [www.linkedin.com/in/prathambusa15]
 
 Let's build the future of empathetic AI conversations together! 🚀
 
