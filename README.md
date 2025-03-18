@@ -31,21 +31,27 @@ cd YaarAI
 ```
 
 ## Set Up a Virtual Environment
+```bash
 python -m venv env
 source env/bin/activate  # Mac/Linux
 env\Scripts\activate  # Windows
-
+```
+```bash
 pip install -r requirements.txt
+```
 
 ## Set Up OpenAI API Key
 Get your OpenAI API key from OpenAI
 Create a .env file in the root directory
 Add the following line to the .env file:
-
+```bash
 OPENAI_API_KEY=your_api_key_here
+```
 
 ## Now run it
+```bash
 streamlit run app.py
+```
 
 ## Future Roadmap 🎯
 - Migrate UI from Streamlit to React for a modern web experience
@@ -55,8 +61,8 @@ streamlit run app.py
 
 ## Contact
 For questions or collaboration, reach out to:
-📧 Email: [busapratham@gmail.com]
-🌐 LinkedIn: [linkedin.com/in/prathambusa15]
+- 📧 Email: [busapratham@gmail.com]
+- 🌐 LinkedIn: [linkedin.com/in/prathambusa15]
 
 Let's build the future of empathetic AI conversations together! 🚀
 
