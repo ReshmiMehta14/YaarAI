@@ -59,10 +59,5 @@ streamlit run app.py
 - Enhance contextual memory for deeper, long-term interactions
 - Improve sarcasm and sentiment detection with fine-tuned models
 
-## Contact
-For questions or collaboration, reach out to:
-- 📧 Email: [busapratham@gmail.com]
-- 🌐 LinkedIn: [www.linkedin.com/in/prathambusa15]
-
 Let's build the future of empathetic AI conversations together! 🚀
 
